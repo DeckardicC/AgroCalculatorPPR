@@ -1,6 +1,7 @@
 {
   "name": "AgroCalculatorPPR",
   "version": "1.0.0",
+  "description": "Полнофункциональное оффлайн мобильное приложение для агрономических расчетов и управления средствами защиты растений",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
