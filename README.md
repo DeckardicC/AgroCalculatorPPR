@@ -82,7 +82,7 @@ AgroCalculator PPR — это профессиональный инструме�
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/DeckardicC/AgroCalculatorPPR.git
 cd AgroCalculatorPPR
 ```
 
